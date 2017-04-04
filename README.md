@@ -1,2 +1,2 @@
 # DeepFold
-A deep learning frame for RNA structure prediction.
+A deep learning frame for RNA secondary structure prediction.
