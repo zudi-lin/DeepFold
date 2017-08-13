@@ -34,7 +34,7 @@ from six.moves import range
 # Initialization #
 ##################
 
-path_prefix = "/home/linzudi/DeepFold/DeepFold_1D_CNN_4/"
+path_prefix = "/home/linzudi/DeepFold/DeepFold_1D/"
 sys.path.append(path_prefix)
 from Functions_data import prep_data
 Winsize = 801
