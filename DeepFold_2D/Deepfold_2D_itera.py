@@ -118,7 +118,7 @@ model.summary()
 ##################
 
 from Iterative_2D import prep_data_2D, prep_data_2D_iterative, load_test
-path_prefix = "/home/linzudi/DeepFold_2D/DeepFold_2D_RES_1/"
+path_prefix = "/home/linzudi/DeepFold_2D/DeepFold_2D/"
 sys.path.append(path_prefix)
 dir_path = path_prefix+"DeepFold_Train"
 test_path= path_prefix+"DeepFold_Validate"
