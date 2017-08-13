@@ -11,7 +11,7 @@ from __future__ import print_function
 # Load Functions #
 ##################
 
-import keras_gpu_memory
+#import keras_gpu_memory
 import sys
 import numpy as np
 import scipy as sp
